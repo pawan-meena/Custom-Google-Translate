@@ -1,5 +1,3 @@
-# Custom-Google-Translate
-
 # Portfolio :wine_glass:
 <a href="https://pawan-meena.github.io/Custom-Google-Translate/" target="_blank">Check Live Now!...</a>
 <br>
