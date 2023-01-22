@@ -3,6 +3,12 @@ html{
     font-family: 'Abel', sans-serif !important;
 }
 /* ============================google transletor================== */
+#goog-gt-tt{
+    display:none !important;
+        visibility: hidden !important;
+    left: 0px !important;
+    top: 0px !important;
+}
 .goog-te-banner-frame.skiptranslate {
     display: none !important;
 } 
